@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Javascript and Tapyscript
 - 😄 Pronouns: he/him
 
-<div align="start">
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/robertoteixeira-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoteixeira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoteixeira-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=robertoteixeira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="210em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoteixeira-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
