@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and Tapyscript
 - 😄 Pronouns: he/him
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/robertoteixeira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoteixeira-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoteixeira-dev&layout=compact&langs_count=7&theme=dark"/>
