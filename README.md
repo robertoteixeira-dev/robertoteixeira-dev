@@ -2,7 +2,7 @@
 I'm a A self-directed, action-oriented Front-End Web developer passionate about technology and web technologies. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
-- 🔭 I’m currently studying Typescript and working on personal projects to improve my portfolio;
+- 🔭 I’m currently studying Typescript, Jquery and working on personal projects to improve my portfolio;
 - 🌱 I have experience with HTML5, CSS, Bootstrap and Javascript;
 - 📫 How to reach me:
 
