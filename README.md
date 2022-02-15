@@ -1,5 +1,5 @@
 ## Hi, I'm Roberto Teixeira!
-I'm a self-directed, action-oriented Front-End Web developer passionate about technology and web technologies. Engaged in the search
+I'm a self-directed, action-oriented Front-End Developer passionate about technology and web technologies. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently studying Typescript and working on personal projects to improve my portfolio;
