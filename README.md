@@ -3,7 +3,7 @@ I'm a self-directed, action-oriented Front-End Developer passionate about techno
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently studying React JS and working on personal projects to improve my portfolio;
-- 🌱 I have experience with HTML5, CSS, Bootstrap and Javascript;
+- 🌱 I have experience with HTML5, CSS3, Bootstrap 5 and Javascript;
 - 📫 How to reach me:
 
 <div>
