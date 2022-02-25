@@ -2,7 +2,7 @@
 I'm a self-directed, action-oriented Front-End Developer passionate about technology and web technologies. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
-- 🔭 I’m currently studying ReactJS, Node.js, MongoDB, PostgreSQL and working on personal projects to improve my portfolio;
+- 🔭 I’m currently studying React JS, Node.JS, MongoDB, PostgreSQL and working on personal projects to improve my portfolio;
 - 🌱 I have experience with HTML5, CSS3, Bootstrap 5 and Javascript;
 - 📫 How to reach me:
 
