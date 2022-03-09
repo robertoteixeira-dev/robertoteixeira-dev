@@ -3,7 +3,7 @@ I'm a self-directed, action-oriented Full-Stack Developer passionate about techn
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently studying on an online Full-Stack Developer Bootcamp and working on personal projects to improve my portfolio;
-- 🌱 I have experience with HTML5, CSS3, Bootstrap 5, Javascript, React.JS, Node.JS, MongoDB, PostgreSQL;
+- 🌱 I have experience with HTML5, CSS3, Bootstrap 5, Javascript, React.JS, Node.JS, PostgreSQL and MongoDB;
 - 📫 How to reach me:
 
 <div>
