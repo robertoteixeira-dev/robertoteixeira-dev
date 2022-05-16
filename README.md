@@ -1,9 +1,9 @@
 ## Hi, I'm Roberto Teixeira!
-I'm a self-directed, action-oriented Full-Stack Developer passionate about technology and web technologies. Engaged in the search
+I'm a self-learner, action-oriented Full-Stack Developer passionate about technology and software development. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently studying on an online Full-Stack Developer Bootcamp and working on personal projects to improve my portfolio;
-- 🌱 I have experience with HTML5, CSS3, SASS, Bootstrap 5, Javascript, React.JS, Node.JS, Express, PostgreSQL and MongoDB;
+- 🌱 I have experience with HTML5, CSS3, SASS, Javascript, React.JS, Node.JS, Express, PostgreSQL and MongoDB;
 - 📫 How to reach me:
 
 <div>
@@ -20,7 +20,6 @@ for suitable solutions and specs that best meet the needs of the project.
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Robe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Robe-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robe-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Robe-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img  align="center" alt="Robe-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img  align="center" alt="Robe-Node.JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
