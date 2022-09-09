@@ -2,7 +2,7 @@
 I'm a self-learner, action-oriented Full-Stack Developer passionate about technology and software development. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
-- 🔭 I’m currently working as a PHP Backend Developer Trainee;
+- 🔭 I’m currently working as a PHP Backend Developer;
 - 🌱 I have experience with HTML5, CSS3, SASS, PHP, Laravel, MySQL, Javascript, React.JS, Node.JS, Express, PostgreSQL and MongoDB;
 - 📫 How to reach me:
 
