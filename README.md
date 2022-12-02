@@ -1,9 +1,9 @@
 ## Hi, I'm Roberto Teixeira!
-I'm a self-learner, action-oriented Full-Stack Developer passionate about technology and software development. Engaged in the search
+I'm a self-learner, action-oriented Full-Stack Developer passionate about new technologies and entrepreneurship. Engaged in the search
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently working as a PHP Backend Developer;
-- 🌱 I have experience with HTML5, CSS3, SASS, PHP, Laravel, MySQL, Javascript, React.JS, Node.JS, Express, PostgreSQL and MongoDB;
+- 🌱 I have experience with HTML5, CSS3, PHP, Laravel, MySQL, C++, RestFUL API, JavaScript, React.JS, React Native, TypeScript and Node.JS;
 - 📫 How to reach me:
 
 <div>
