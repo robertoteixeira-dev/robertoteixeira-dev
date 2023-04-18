@@ -3,7 +3,7 @@ I'm a self-learner, action-oriented Full-Stack Developer passionate about new te
 for suitable solutions and specs that best meet the needs of the project. 
 
 - 🔭 I’m currently working as a PHP Backend Developer;
-- 🌱 I have experience with HTML5, CSS3, PHP, Laravel, MySQL, C++, RestFUL API, JavaScript, React.JS, React Native, TypeScript and Node.JS;
+- 🌱 I have professional experience with HTML5, CSS3, PHP, Laravel, MySQL, VueJS, C#, C++, RestFUL API, JavaScript, React.JS, React Native, TypeScript and Node.JS;
 - 📫 How to reach me:
 
 <div>
